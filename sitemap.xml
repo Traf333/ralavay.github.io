@@ -7,11 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>https://ralavay.com/</loc>
-  <lastmod>2016-01-31T07:01:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ralavay.com/2015/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
+  <lastmod>2016-01-31T13:38:00Z</lastmod>
  </url>
  <url>
   <loc>https://ralavay.com/2016/</loc>
@@ -23,42 +19,18 @@
  </url>
  <url>
   <loc>https://ralavay.com/categories/</loc>
-  <lastmod>2016-01-31T06:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ralavay.com/categories/cat_life/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ralavay.com/categories/lifestyle/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
+  <lastmod>2016-01-31T07:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://ralavay.com/categories/resolution/</loc>
   <lastmod>2016-01-31T06:53:00Z</lastmod>
  </url>
  <url>
-  <loc>https://ralavay.com/galleries/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ralavay.com/listings/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
- </url>
- <url>
   <loc>https://ralavay.com/pages/about/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
+  <lastmod>2016-01-31T07:01:00Z</lastmod>
  </url>
  <url>
   <loc>https://ralavay.com/posts/2016-resolution/</loc>
   <lastmod>2016-01-31T06:53:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ralavay.com/posts/init-commit/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
- </url>
- <url>
-  <loc>https://ralavay.com/posts/second-commit-name/</loc>
-  <lastmod>2015-12-02T16:32:00Z</lastmod>
  </url>
 </urlset>
