@@ -9,17 +9,39 @@
 .. type: text
 -->
 
-## My awesome list
+Guys please focus
 
-__one__
+![new year resolution](/pics/resolution-new-year-comic.jpg)
 
-**two**
+## Personal
 
-- [ ] three
-- [ ] x
+- Restart this blog [https://ralavay.com](https://ralavay.com) (Awesome I did it) and keep update monthly
+- Visit at least 4 countries and learn something (e.g beautiful level of the women)
+    - Malaysia (@vicent I will bother you)
+    - Indonesia
+    - Myanmar
+    - Philippines (@adler I know u can help)
+- Restart my guitar course - seriously!!! (@eric @adler)
+- Improve my English level - I know I am doing good but should not compare @eric with a salad :(
+- Start playing another spot - badminton? 
+- 99.99999% win in every foosball matchs - this is critical!!!
 
-### bla
+## Professional
 
-`fsakdf`
+- Languages
+    - Better & faster in Python (me, not the language)
+    - Revise Ruby
+    - Learn Go
+- Dig into AWS eco-system
+    - CloudFormation (Terraform) + Parker for provison the infra stack
+    - Build a serverless service purely basec on API Gateway & Lambda - this will kill lots of Ops jobs :(
+    - Monitoring multiple aspect of AWS perf, security (better to use tool like LogEntries to monitor & audit the log)
+- Master Jenkins & Ansible for CI/CD
+- Improve communicating, planning, critical thinking skills (how? i don't know)
 
+## Financial
 
+- Saving. I repeat `Saving`!
+- Spend `5-10%` to **invest** in a stupid thing
+
+Easy!
