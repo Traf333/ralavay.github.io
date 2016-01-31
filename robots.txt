@@ -1,0 +1,4 @@
+Sitemap: https://ralavay.com/sitemapindex.xml
+
+User-Agent: *
+Host: ralavay.com

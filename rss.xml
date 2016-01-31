@@ -1,17 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Ralavay</title><link>http://ralavay.com/</link><description>Another lazy guy's blog</description><atom:link href="http://ralavay.com/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Fri, 25 Sep 2015 10:54:01 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Init commit</title><link>http://ralavay.com/posts/init-commit/</link><dc:creator>Neo</dc:creator><description>&lt;div&gt;&lt;p&gt;Not sure that this can display &lt;cite&gt;Markdown&lt;/cite&gt; or not&lt;/p&gt;
-&lt;p&gt;List&lt;/p&gt;
-&lt;ul class="simple"&gt;
-&lt;li&gt;first item&lt;/li&gt;
-&lt;li&gt;second item&lt;/li&gt;
+<?xml-stylesheet type="text/xsl" href="assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Ralavay</title><link>https://ralavay.com/</link><description>Take it easy</description><atom:link href="https://ralavay.com/rss.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 31 Jan 2016 06:53:17 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2016 Resolution</title><link>https://ralavay.com/posts/2016-resolution/</link><dc:creator>Tung Nguyen</dc:creator><description>&lt;div&gt;&lt;h3&gt;My awesome list&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;one&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;two&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;[ ] three&lt;/li&gt;
+&lt;li&gt;[ ] x&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;em&gt;Something&lt;/em&gt; &lt;strong&gt;very&lt;/strong&gt; _important_&lt;/p&gt;
-&lt;p&gt;# Ref&lt;/p&gt;
-&lt;p&gt;h1. Ref&lt;/p&gt;
-&lt;p&gt;or&lt;/p&gt;
-&lt;div class="section" id="ref"&gt;
-&lt;h2&gt;Ref&lt;/h2&gt;
-&lt;div class="section" id="id1"&gt;
-&lt;h3&gt;Ref&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;/div&gt;</description><category>lifestyle</category><guid>http://ralavay.com/posts/init-commit/</guid><pubDate>Fri, 25 Sep 2015 08:57:02 GMT</pubDate></item></channel></rss>
+&lt;h4&gt;bla&lt;/h4&gt;
+&lt;p&gt;&lt;code&gt;fsakdf&lt;/code&gt;&lt;/p&gt;&lt;/div&gt;</description><category>resolution</category><guid>https://ralavay.com/posts/2016-resolution/</guid><pubDate>Sun, 31 Jan 2016 06:52:11 GMT</pubDate></item></channel></rss>
