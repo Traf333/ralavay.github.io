@@ -17,16 +17,16 @@ import time
 
 
 # Data about this site
-BLOG_AUTHOR = "Neo"  # (translatable)
+BLOG_AUTHOR = "Tung Nguyen"  # (translatable)
 BLOG_TITLE = "Ralavay"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-SITE_URL = "http://ralavay.com/"
+SITE_URL = "https://ralavay.com/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "http://ralavay.com/"
+BASE_URL = "https://ralavay.com/"
 BLOG_EMAIL = "me@ralavay.com"
-BLOG_DESCRIPTION = "Another lazy guy's blog"  # (translatable)
+BLOG_DESCRIPTION = "Take it easy"  # (translatable)
 
 # Nikola is multilingual!
 #
@@ -129,7 +129,6 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/archive.html", "Archive"),
         ("/categories/", "Tags"),
-        ("/rss.xml", "RSS feed"),
         ("/pages/about/", "About")
     ),
 }
@@ -167,10 +166,12 @@ THEME_COLOR = '#5670d4'
 #
 
 POSTS = (
+    ("posts/*.md", "posts", "post.tmpl"),
     ("posts/*.rst", "posts", "post.tmpl"),
     ("posts/*.txt", "posts", "post.tmpl"),
 )
 PAGES = (
+    ("pages/*.md", "pages", "story.tmpl"),
     ("pages/*.rst", "pages", "story.tmpl"),
     ("pages/*.txt", "pages", "story.tmpl"),
 )
@@ -240,8 +241,8 @@ TIMEZONE = "Asia/Ho_Chi_Minh"
 # 'markdown' is MarkDown
 # 'html' assumes the file is HTML and just copies it
 COMPILERS = {
-    "rest": ('.rst', '.txt'),
     "markdown": ('.md', '.mdown', '.markdown'),
+    "rest": ('.rst', '.txt'),
     "textile": ('.textile',),
     "txt2tags": ('.t2t',),
     "bbcode": ('.bb',),
@@ -340,7 +341,7 @@ POSTS_SECTIONS = True
 # output / TRANSLATION[lang] / TAG_PATH / index.html (list of tags)
 # output / TRANSLATION[lang] / TAG_PATH / tag.html (list of posts for a tag)
 # output / TRANSLATION[lang] / TAG_PATH / tag.xml (RSS feed for a tag)
- # (translatable)
+# (translatable)
 # TAG_PATH = "categories"
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
@@ -728,6 +729,10 @@ IMAGE_FOLDERS = {'images': 'images'}
 #     ("icon", "/favicon.ico", "16x16"),
 #     ("icon", "/icon_128x128.png", "128x128"),
 # )
+FAVICONS = (
+    ("icon", "/favicon.ico", "16x16"),
+)
+
 
 # Show teasers (instead of full posts) in indexes? Defaults to False.
 # INDEX_TEASERS = False
@@ -747,7 +752,8 @@ IMAGE_FOLDERS = {'images': 'images'}
 # 'Read more...' for the index page, if INDEX_TEASERS is True (translatable)
 INDEX_READ_MORE_LINK = '<p class="more"><a href="{link}">{read_more}…</a></p>'
 # 'Read more...' for the RSS_FEED, if RSS_TEASERS is True (translatable)
-RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+#RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
+FEED_LINKS_APPEND_QUERY = '<p><a href="{link}">{read_more}…</a> ({min_remaining_read})</p>'
 
 # Append a URL query to the RSS_READ_MORE_LINK in Atom and RSS feeds. Advanced
 # option used for traffic source tracking.
@@ -757,7 +763,8 @@ RSS_READ_MORE_LINK = '<p><a href="{link}">{read_more}…</a> ({min_remaining_rea
 # {feedFormat}                  The name of the syndication format.
 # Example using replacement for use with Google Analytics:
 # "utm_source={feedRelUri}&utm_medium=nikola_feed&utm_campaign={feedFormat}_feed"
-RSS_LINKS_APPEND_QUERY = False
+#RSS_LINKS_APPEND_QUERY = False
+FEED_LINKS_APPEND_QUERY = False
 
 # A HTML fragment describing the license, for the sidebar.
 # (translatable)
