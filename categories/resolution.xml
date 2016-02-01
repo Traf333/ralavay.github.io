@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Ralavay (resolution)</title><link>https://ralavay.com/</link><description></description><atom:link href="https://ralavay.com/categories/resolution.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Sun, 31 Jan 2016 14:26:29 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2016 Resolution</title><link>https://ralavay.com/posts/2016-resolution/</link><dc:creator>Tung Nguyen</dc:creator><description>&lt;div&gt;&lt;p&gt;Guys please focus&lt;/p&gt;
+<?xml-stylesheet type="text/xsl" href="../assets/xml/rss.xsl" media="all"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>Ralavay (resolution)</title><link>https://ralavay.com/</link><description></description><atom:link href="https://ralavay.com/categories/resolution.xml" type="application/rss+xml" rel="self"></atom:link><language>en</language><lastBuildDate>Mon, 01 Feb 2016 13:57:19 GMT</lastBuildDate><generator>https://getnikola.com/</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>2016 Resolution</title><link>https://ralavay.com/posts/2016-resolution/</link><dc:creator>Tung Nguyen</dc:creator><description>&lt;div&gt;&lt;p&gt;Guys please focus&lt;/p&gt;
 &lt;p&gt;&lt;img alt="new year resolution" src="https://ralavay.com/pics/resolution-new-year-comic.jpg"&gt;&lt;/p&gt;
 &lt;h3&gt;Personal&lt;/h3&gt;
 &lt;ul&gt;
@@ -15,6 +15,8 @@
 &lt;li&gt;Improve my English level - I know I am doing good but should not compare @eric with a salad :(&lt;/li&gt;
 &lt;li&gt;Start playing another spot - badminton? &lt;/li&gt;
 &lt;li&gt;99.99999% win in every foosball matchs - this is critical!!!&lt;/li&gt;
+&lt;li&gt;Saving. I repeat &lt;code&gt;Saving&lt;/code&gt;!&lt;/li&gt;
+&lt;li&gt;Spend &lt;code&gt;5-10%&lt;/code&gt; to &lt;strong&gt;invest&lt;/strong&gt; in a stupid thing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3&gt;Professional&lt;/h3&gt;
 &lt;ul&gt;
@@ -32,10 +34,5 @@
 &lt;/li&gt;
 &lt;li&gt;Master Jenkins &amp;amp; Ansible for CI/CD&lt;/li&gt;
 &lt;li&gt;Improve communicating, planning, critical thinking skills (how? i don't know)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3&gt;Financial&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;Saving. I repeat &lt;code&gt;Saving&lt;/code&gt;!&lt;/li&gt;
-&lt;li&gt;Spend &lt;code&gt;5-10%&lt;/code&gt; to &lt;strong&gt;invest&lt;/strong&gt; in a stupid thing&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Easy!&lt;/p&gt;&lt;/div&gt;</description><category>resolution</category><guid>https://ralavay.com/posts/2016-resolution/</guid><pubDate>Sun, 31 Jan 2016 06:52:11 GMT</pubDate></item></channel></rss>

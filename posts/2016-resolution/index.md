@@ -25,6 +25,9 @@ Guys please focus
 - Improve my English level - I know I am doing good but should not compare @eric with a salad :(
 - Start playing another spot - badminton? 
 - 99.99999% win in every foosball matchs - this is critical!!!
+- Saving. I repeat `Saving`!
+- Spend `5-10%` to **invest** in a stupid thing
+
 
 ## Professional
 
@@ -39,9 +42,5 @@ Guys please focus
 - Master Jenkins & Ansible for CI/CD
 - Improve communicating, planning, critical thinking skills (how? i don't know)
 
-## Financial
-
-- Saving. I repeat `Saving`!
-- Spend `5-10%` to **invest** in a stupid thing
 
 Easy!
